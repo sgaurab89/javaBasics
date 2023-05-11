@@ -1,6 +1,4 @@
 package com.qa.generalPrograms;
-
-import java.util.*;
 public class HelloWorld {
 
 public static void main(String[] args) {
@@ -16,10 +14,6 @@ public static void main(String[] args) {
 	for(int i=0;i>=l-1;i++) {
 		System.out.println(s.charAt(i));
 	}
-	
-	
-	
-	
 	
 }	
 	
